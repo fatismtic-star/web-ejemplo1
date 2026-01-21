@@ -1,0 +1,15 @@
+﻿body{
+     background-color:#F0D48F;
+    
+}
+h1{ 
+       font-family: arial;
+       font-size: 45px;
+       color:blue;
+}
+#pepe{
+       width:350px;
+       height:300;
+       border-radius: 50%;
+       border: 2px solid #071B3B;
+}
