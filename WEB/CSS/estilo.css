@@ -6,10 +6,31 @@ h1{
        font-family: arial;
        font-size: 45px;
        color:blue;
+	text-align: center;
+}
+h2, h3, p{
+	text-align: center;
+}
+img{
+	display: block; 
+	margin: 0 auto;
 }
 #pepe{
        width:350px;
        height:300;
-       border-radius: 50%;
+       border-radius: 20%;
        border: 2px solid #071B3B;
+}
+button{
+	display: block;
+	margin: 0 auto;
+	background-color:3CD9D9;
+	padding: 15px 32px
+}
+#pepe:hover{
+  box-shadow: 0 0 2px 1px blue;
+ transform: scale(1.5);
+}
+button:hover{
+ background-color:blue;
 }
