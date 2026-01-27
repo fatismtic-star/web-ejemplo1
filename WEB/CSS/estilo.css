@@ -34,3 +34,17 @@ button{
 button:hover{
  background-color:blue;
 }
+#tabla1 tr:hover {
+	background-color: pink;
+}
+.noticias{
+	border: 5px ridge #0C0018;
+	background-color: #77C2E2;
+	padding: 2px;
+	display: flex;
+	flex-direction: column;
+}
+.noticias p{
+	font-family: Fantasy;
+	text-align: center;
+}
